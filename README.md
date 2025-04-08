@@ -12,3 +12,10 @@ The major things that we need to learn are:
 5) Eigen value decomposition
 6) LU Decomposition
 7) QR Decomposition
+8) Singular Value Decomposition
+9) Principal Component Analysis
+10) Sensitivity analysis
+11) Graph Theory
+12) Page rank algorithm
+13) Least squares approximation of a matrix
+    
