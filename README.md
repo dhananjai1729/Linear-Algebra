@@ -18,4 +18,8 @@ The major things that we need to learn are:
 11) Graph Theory
 12) Page rank algorithm
 13) Least squares approximation of a matrix
+
+
+## Textbook to follow
+one of the best books to follow is Gilbert Strangs book "Linear Algebra and Learning from Data"
     
